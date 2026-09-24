@@ -1,5 +1,5 @@
 import type { Movie } from "../types/Movie";
-import StarRating from "./StarRating";
+
 
 interface Props {
   movie: Movie;
